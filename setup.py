@@ -2,7 +2,7 @@
 
 from setuptools import setup
 
-version = '2.0.1'
+version = '2.0.2'
 repo_url = 'https://github.com/agerasev/test_cmd_x'
 download_url = repo_url + '/tarball/' + version
 
@@ -17,9 +17,9 @@ setup(name='test_cmd_x',
       author_email='nthend.iipa@gmail.com',
       keywords='command line terminal functional black box testing arguments stdin stdout stderr',
       license='Apache',
-      py_modules=['test_cmd'],
+      py_modules=['test_cmd_x'],
       entry_points = {
-        'console_scripts': ['test_cmd=test_cmd:main'],
+        'console_scripts': ['test_cmd_x=test_cmd_x:main'],
       },
       classifiers=[
         'Topic :: Software Development :: Quality Assurance',
