@@ -2,7 +2,7 @@
 
 from setuptools import setup
 
-version = '2.0.2'
+version = '2.0.3'
 repo_url = 'https://github.com/agerasev/test_cmd_x'
 download_url = repo_url + '/tarball/' + version
 
