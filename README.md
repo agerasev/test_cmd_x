@@ -1,6 +1,6 @@
 # test_cmd_x
 
-[![pypi](https://badge.fury.io/py/test_cmd_x.svg)](https://pypi.python.org/pypi/test_cmd_x)
+[![pypi](https://badge.fury.io/py/test-cmd-x.svg)](https://pypi.python.org/pypi/test_cmd_x)
 
 This is a tool for black-box testing command-line programs simply based on STDIN, STDOUT, and STDERR. test_cmd_x is a extended version of original [test_cmd](https://github.com/arjun-menon/test_cmd).
 
